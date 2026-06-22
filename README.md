@@ -1,0 +1,1 @@
+# salary-simple-linear-regression
